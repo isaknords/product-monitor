@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Product Monitor
 
 A Python-based product monitoring tool that periodically checks online stores for new products and changes in stock status.
@@ -78,3 +79,7 @@ The example configuration included in this repository uses placeholder URLs and 
 ## Disclaimer
 
 This repository is a cleaned and anonymised version of a personal project. Store-specific URLs, credentials and other private configuration have been removed.
+=======
+# product-monitor
+Python-based web scraper that monitors product pages and sends Discord notification when new products are added or back in stock
+>>>>>>> a014fd5a654c164f2b66e4c750041ee53c52b184
